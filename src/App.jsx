@@ -13,7 +13,6 @@ function App() {
   return (
     <div className="App bg-main">
       <BrowserRouter>
-        <NavBar />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/TVshows" element={<TVshows />} />

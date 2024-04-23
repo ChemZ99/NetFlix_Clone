@@ -39,7 +39,7 @@ class Gallery extends Component {
 
   render() {
     return (
-      <div>
+      <div className="gallery_rules">
         <HeaderBar />
         <div>
           <p className="display-6 text-white text-start ps-5">CSI</p>

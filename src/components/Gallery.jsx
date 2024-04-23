@@ -115,7 +115,7 @@ function Gallery () {
 
   
     return (
-      <div>
+      <div className="gallery_rules">
         <div>
           <p className="display-6 text-white text-start ps-5">Currently Trending</p>
           {/* <Container fluid>
